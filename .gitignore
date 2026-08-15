@@ -1,0 +1,44 @@
+# Unity generated
+UnityProject/Library/
+UnityProject/Temp/
+UnityProject/Obj/
+UnityProject/Logs/
+UnityProject/UserSettings/
+UnityProject/MemoryCaptures/
+UnityProject/Recordings/
+UnityProject/[Bb]uild/
+UnityProject/[Bb]uilds/
+UnityProject/.vs/
+UnityProject/.vsconfig
+UnityProject/*.csproj
+UnityProject/*.sln
+UnityProject/*.suo
+UnityProject/*.user
+UnityProject/*.userprefs
+UnityProject/*.pidb
+UnityProject/*.booproj
+UnityProject/*.svd
+UnityProject/*.pdb
+UnityProject/*.mdb
+UnityProject/*.opendb
+UnityProject/*.VC.db
+UnityProject/sysinfo.txt
+UnityProject/crashlytics-build.properties
+UnityProject/editmode-results.xml
+UnityProject/package_install.log
+UnityProject/runtests.log
+
+# Rider/VSCode
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Agent
+qa-artifacts/
+qa-logs/
+
+# Google Sheets sync credentials and local configuration
+.google-sheets.json
+.secrets/
