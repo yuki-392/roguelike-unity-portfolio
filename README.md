@@ -1,7 +1,7 @@
 # カード式ローグライト — 技術ポートフォリオ
 
 <p align="center">
-  <img src="./assets/screenshots/01-title.png" alt="カード式ローグライト" width="480">
+  <img width="2046" height="1154" alt="Codex 画像 2026年9月30日 01_07_58" src="https://github.com/user-attachments/assets/8c2f2fab-1fc3-478d-ad2a-89f548edc767" />
 </p>
 
 カードを集め、組み合わせ、強化しながら、ランダムに変化するマップを攻略するデッキ構築型ローグライトです。
